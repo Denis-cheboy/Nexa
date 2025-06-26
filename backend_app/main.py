@@ -13,7 +13,7 @@ app = FastAPI(
 # Configure CORS
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173", "http://localhost:3000"], # Add your React app's URL
+    allow_origins=["http://localhost:5173", "http://localhost:3000","https://nexa-1-b2ub.onrender.com"], # Add your React app's URL
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

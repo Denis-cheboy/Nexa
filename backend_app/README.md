@@ -101,7 +101,7 @@ Once all dependencies are installed and your `.env` file is configured, you can 
     fastapi dev main.py
     ```
 
-    You should see output indicating that the server is running, typically at `http://127.0.0.1:8000`.
+    You should see output indicating that the server is running, typically at `http://127.0.0.1:8000/api`.
 
 ## 🌐 API Endpoints
 

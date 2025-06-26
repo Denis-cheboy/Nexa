@@ -2,6 +2,19 @@
 
 Welcome to the frontend application for the Nexa Assistant, your AI Brainstorming Assistant! This is the user interface that allows you to interact with the powerful AI backend, manage your conversations, and brainstorm ideas seamlessly.
 
+## Live Preview of the client application
+
+![nexa1](https://github.com/user-attachments/assets/1b11869e-c11a-4a1b-a0b2-549b68abd119)
+
+![nexa2](https://github.com/user-attachments/assets/6afa2406-e1d1-403a-b44d-f412fd0cffea)
+
+![nexa3](https://github.com/user-attachments/assets/aa6cde84-8d75-4ede-a7d7-e054e63af453)
+
+![nexa4](https://github.com/user-attachments/assets/9fb84342-f524-407c-b958-5a575092462f)
+
+![nexa5](https://github.com/user-attachments/assets/1c2313ec-291a-4ce9-a7dd-3e15db4b950f)
+
+
 ## 🚀 Features
 
 This user interface provides a rich and intuitive experience with the following features:
